@@ -200,3 +200,32 @@ gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It 
 gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
 
 (gimp:64932): Gdk-CRITICAL **: 22:44:08.061: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+[32mServing "/home/siku/code/4geeks/projects/collaboration-github" at http://127.0.0.1:8080[39m
+[36mReady for changes[39m
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/navbar.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/navbar.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/navbar.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/navbar.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/navbar.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/portfolio.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/portfolio.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/portfolio.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/first_heading.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/first_heading.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/services.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/tagline.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/website/templates/tagline.html
+[36mChange detected[39m /home/siku/code/4geeks/projects/collaboration-github/nohup.out
