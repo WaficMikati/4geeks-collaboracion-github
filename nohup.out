@@ -172,3 +172,31 @@ Non-native QFileDialog supports only local files
 [0000557e7b149500] main playlist: playlist is empty
 Non-native QFileDialog supports only local files
 Non-native QFileDialog supports only local files
+set device 'Wayland Pointer' to mode: disabled
+/usr/lib/gimp/3.0/plug-ins/file-ps/file-ps: error while loading shared libraries: libgs.so.10: cannot open shared object file: No such file or directory
+gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+/usr/lib/gimp/3.0/plug-ins/file-fits/file-fits: error while loading shared libraries: libcfitsio.so.10: cannot open shared object file: No such file or directory
+gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+env: ‘gjs’: No such file or directory
+gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+
+(gimp:64932): Gdk-WARNING **: 22:43:39.464: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:64932): Gdk-WARNING **: 22:43:39.464: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:64932): Gdk-CRITICAL **: 22:43:42.137: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+set device 'Wayland Wheel Scrolling' to mode: disabled
+
+(gimp:64932): Gdk-WARNING **: 22:43:51.207: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:64932): Gdk-CRITICAL **: 22:44:00.988: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:64932): Gtk-WARNING **: 22:44:00.994: Calling org.freedesktop.portal.Inhibit.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+
+(gimp:64932): Gdk-WARNING **: 22:44:06.435: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:64932): Gdk-CRITICAL **: 22:44:08.061: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
