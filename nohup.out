@@ -1,0 +1,164 @@
+set device 'Wayland Pointer' to mode: disabled
+[script-fu-test-sphere-v3] The catalog directory does not exist: /usr/lib/gimp/3.0/plug-ins/test-sphere-v3/locale
+[script-fu-test-sphere-v3] Override method set_i18n() for the plug-in to customize or disable localization.
+[script-fu-test-sphere-v3] Localization disabled
+/usr/lib/gimp/3.0/plug-ins/file-ps/file-ps: error while loading shared libraries: libgs.so.10: cannot open shared object file: No such file or directory
+gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+/usr/lib/gimp/3.0/plug-ins/file-fits/file-fits: error while loading shared libraries: libcfitsio.so.10: cannot open shared object file: No such file or directory
+gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+env: ‘gjs’: No such file or directory
+gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): unexpected EOF
+
+(gimp:51790): Gdk-WARNING **: 20:20:26.132: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:20:26.132: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+set device 'Wayland Wheel Scrolling' to mode: disabled
+
+(gimp:51790): Gdk-CRITICAL **: 20:20:37.582: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:25:01.512: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(file-png:53032): LibGimp-WARNING **: 20:25:05.623: file-png: gimp_flush(): error: Broken pipe
+
+(gimp:51790): Gdk-WARNING **: 20:25:10.764: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:25:24.801: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:25:31.620: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:26:37.862: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gtk-WARNING **: 20:26:37.918: Calling org.freedesktop.portal.Inhibit.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+
+(gimp:51790): Gdk-WARNING **: 20:26:48.506: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:27:04.634: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:27:23.504: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:28:52.548: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:29:03.614: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:29:18.109: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:29:22.526: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:29:32.101: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:29:37.871: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:29:42.206: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:29:52.158: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:29:54.898: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:29:59.070: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:30:07.926: Tried to unmap the parent of a popup
+
+(gimp:51790): Gdk-WARNING **: 20:30:13.124: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:30:15.135: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:30:16.633: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(file-png:53432): LibGimp-WARNING **: 20:30:19.781: file-png: gimp_flush(): error: Broken pipe
+
+(gimp:51790): Gdk-WARNING **: 20:30:19.835: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:30:28.972: Tried to unmap the parent of a popup
+
+(gimp:51790): Gdk-WARNING **: 20:30:29.009: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:30:37.471: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:30:46.137: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:30:52.426: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:30:58.439: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:31:02.795: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:31:06.744: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:31:08.580: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:31:10.287: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:31:10.348: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:31:18.913: Tried to unmap the parent of a popup
+
+(gimp:51790): Gdk-WARNING **: 20:31:18.951: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:31:27.380: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:31:34.859: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:31:40.055: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(file-png:53577): LibGimp-WARNING **: 20:31:42.998: file-png: gimp_flush(): error: Broken pipe
+
+(gimp:51790): Gdk-WARNING **: 20:31:48.469: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:32:04.515: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:32:05.316: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:32:06.404: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:32:18.833: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:32:49.710: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(file-png:53714): Gdk-WARNING **: 20:32:57.346: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(file-png:53714): Gdk-WARNING **: 20:32:57.346: Server is missing xdg_foreign support
+
+(gimp:51790): Gdk-WARNING **: 20:33:00.755: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(file-png:53714): Gdk-CRITICAL **: 20:33:58.632: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+
+(gimp:51790): Gdk-WARNING **: 20:40:43.578: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-WARNING **: 20:41:42.815: Tried to unmap the parent of a popup
+
+(gimp:51790): Gdk-WARNING **: 20:44:31.031: Server is missing xdg_foreign support
+gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
+
+(gimp:51790): Gdk-CRITICAL **: 20:44:32.811: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
