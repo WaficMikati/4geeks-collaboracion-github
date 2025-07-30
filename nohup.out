@@ -162,3 +162,13 @@ gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It 
 gimp_widget_set_handle_on_mapped: gdk_wayland_window_export_handle() failed. It will not be possible to set windows in other processes as transient to this display shell.
 
 (gimp:51790): Gdk-CRITICAL **: 20:44:32.811: gdk_wayland_window_unexport_handle: assertion 'impl->display_server.xdg_exported_v2 || impl->display_server.xdg_exported_v1' failed
+[000055c31ecc1520] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[000055c31ed35420] main playlist: playlist is empty
+Non-native QFileDialog supports only local files
+Non-native QFileDialog supports only local files
+Non-native QFileDialog supports only local files
+[000055c31ed51660] main interface error: option cd-audio does not exist
+[0000557e7b0d5520] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0000557e7b149500] main playlist: playlist is empty
+Non-native QFileDialog supports only local files
+Non-native QFileDialog supports only local files
